@@ -7,6 +7,6 @@
 	},
 	"require": {
 		"php": ">= 7.1",
-		"nette/utils": "^2.4 || ^3.0@dev"
+		"kdyby/strict-objects": "dev-master"
 	}
 }
